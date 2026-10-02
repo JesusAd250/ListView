@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="ListView">List View</string>
+    <string name="ListViewPersonalizar">List View Personalizado</string>
+    <string name="recyclerview_basics">Recycler view basic</string>
+    <string name="recyclerview_personalizado">Recycler view personalizado</string>
+    <string name="regresar">regresar</string>
+    <string name="user">NiggaMan</string>
+    <string name="ultimo_mensaje">Ñ</string>
+    <string name="last_cone">8:99</string>
+    <string name="last_conexion">8:99</string>
+    <string name="tipos_de_listados">Listados</string>
+
+</resources>
